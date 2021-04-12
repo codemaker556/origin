@@ -1,0 +1,5 @@
+https://github.com/4chan/4chan-API     the 
+https://pypi.org/project/BASC-py4chan/    the 4chan API library
+https://towardsdatascience.com/how-to-download-an-image-using-python-38a75cfa21c		downloading img wget
+
+https://youtu.be/r_sf0-o9tS0?t=60
